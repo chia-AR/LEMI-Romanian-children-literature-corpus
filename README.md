@@ -1,4 +1,4 @@
-# LEMI Romanian children literature corpus
+# LEMI - Romanian children literature corpus
 ## Towards Building the Readability Platform for Children’s Literature in the Romanian Language
 ### Madalina Chitez, Mihai Dascalu, Aura Cristina Udrea, Cosmin Strilețchi, Karla Csürös, Roxana Rogobete and Alexandru Oravițan
 
