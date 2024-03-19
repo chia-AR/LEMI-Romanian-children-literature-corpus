@@ -1,1 +1,1 @@
-# LEMI-Romanian-children-literature-corpus
+# LEMI Romanian children literature corpus
